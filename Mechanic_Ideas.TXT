@@ -1,0 +1,18 @@
+Ideas to implement into Unreal Engine 4:
+Continuous Elevator(done)- with button activation (not done)
+
+Dishonoured Style teleport (done)
+
+Character-controller - with wall-sticking and climbing
+
+Breakable Wall - broken with laser beams fired/melee attacks by player
+
+Door - that uses key
+
+Platforming level with enemies below that chase and kill you if you fall
+
+Health bar
+
+Melee Attacks
+
+Chargeable and fireable lazer beams
